@@ -12,3 +12,7 @@ git config user.name "XXX"
 git commit -m 'XXX'
 ```
 
+**软件**
+
+1. git
+2. typora
