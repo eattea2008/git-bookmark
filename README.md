@@ -16,3 +16,4 @@ git commit -m 'XXX'
 
 1. git
 2. typora
+3. jdk
